@@ -1,0 +1,26 @@
+{
+  "name": "OwnCloudUploader",
+  "description": "Bot de Telegram : Descargador gratis de contenido desde internet a owncloud , nexcloud en cuba",
+  "repository": "https://github.com/KrixtO1997/OwncloudKx",
+  "env": {
+    "bot_token": {
+      "description": "El token del bot"
+    },
+    "proxy_enc": {
+      "description": "Proxy Encriptado",
+      "value": "socks5h://KGDHKEYFJKJHGDYDJHGDGHYHKDEEEDRKCGLEGFLD"
+    },
+    "account_user": {
+      "description": "El usuario de la Owncloud",
+      "value": "cbseguin"
+    },
+    "account_password": {
+      "description": "El Password de la Owncloud",
+      "value": "Pepinos.123"
+    },
+    "tl_admin_user": {
+      "description": "Usuarios Permitidos",
+      "value": "Krixt0;obisoftt"
+    }
+  }
+}
